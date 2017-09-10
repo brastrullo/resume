@@ -1,0 +1,23 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brastrullo/resume.git"
+  },
+  "author": "Bradley Rastrullo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brastrullo/resume/issues"
+  },
+  "homepage": "https://brastrullo.github.com/resume",
+  "devDependencies": {
+    "showdown": "^1.7.4"
+  }
+}
