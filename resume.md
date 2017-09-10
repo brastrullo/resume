@@ -5,7 +5,6 @@ _[bradleyrastrullo.ca](https://www.bradleyrastrullo.ca "Visit my personal websit
 * Has strong understanding of JavaScript along with HTML and SCSS/CSS for building responsive cross-browser web applications optimized for mobile platforms
 * Working knowledge of MVC/Component-based frameworks such as Angular 2 and Ember 2 and React
 * Proven skills in working in a team-setting and collaborating with clients through changing requirements and deadlines
-* Completely self-taught developer with an insatiable thirst to learn and always improve
 * Advanced Diploma in Architectural Technology
 
 ## DEVELOPER WORK EXPERIENCE
