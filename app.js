@@ -3,7 +3,7 @@
   var showdown  = require('showdown');
   var converter = new showdown.Converter();
 
-  var file  = 'resume.md';
+  var file  = 'README.md';
   var destination = 'index.html';
 
   fs.readFile(file, 'utf8', function read(err, data) {
