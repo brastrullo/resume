@@ -1,3 +1,4 @@
+'esversion:6';
 (function() {
   var fs        = require('fs');
   var showdown  = require('showdown');
@@ -30,11 +31,13 @@
       <link rel="stylesheet" href="style.css">
     </head>
     <body>
-    `
-    html = header + data + `
-    </body>
-    </html>
-    `
+    `;
+    html = `
+      ${header}
+      ${data}
+      </body>
+      </html>
+    `;
 
     fs.writeFile(destination, html, function write(err) {
       if (err) throw err;
