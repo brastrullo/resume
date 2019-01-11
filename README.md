@@ -1,6 +1,6 @@
 [View PDF](https://brastrullo.github.io/resume/BradR-JSDev.pdf "View PDF") | [Download DOC](https://brastrullo.github.io/resume/BradR-JSDev.doc "Download DOC")
 # BRADLEY RASTRULLO
-_[bradleyrastrullo.com](https://www.bradleyrastrullo.com "Visit my personal website")_ **|** _(647) 389 1342_ **|** _bradleyrastrullo@gmail.com_
+_[bradleyrastrullo.com](https://bradleyrastrullo.com "Visit my personal website")_ **|** _(647) 389 1342_ **|** _bradleyrastrullo@gmail.com_
 
 ## HIGHLIGHTS OF QUALIFICATIONS
 * Adaptable tech stack being framework agnostic with focus on JavaScript and UX best practices
