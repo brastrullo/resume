@@ -10,13 +10,13 @@ _[bradleyrastrullo.ca](https://www.bradleyrastrullo.ca "Visit my personal websit
 
 ## DEVELOPER WORK EXPERIENCE
 
-**Intermediate Fullstack Developer, Telus Digital,** Toronto, _March 2018 –  February 2019_
+**Intermediate Fullstack Developer, Telus Digital,** Toronto, _March 2018 – February 2019_
 * Updated and maintained the Chat WebApp/Support Pages for Mobility division
 * Assisted in app architecture overhaul while keeping consistent cross-app functionality
 * Integrated internal design system responsively in mobile and desktop environments
 * Main Technologies: React, Redux, Jest, OpenShift, Contentful, JIRA, Confluence
 
-**Front-End Developer, Solo,** Toronto, _May 2017 –  March 2018_
+**Front-End Developer, Solo,** Toronto, _May 2017 – March 2018_
 * Reduced dependencies on personal website by converting JS from Angular to vanilla ES6
 * Rehashed workflow with NPM scripts removing need for Gulp
 * Created custom SVG animations using Velocity
