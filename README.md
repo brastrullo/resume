@@ -45,22 +45,6 @@ Junior Developer, **CIBC**, Toronto, _Nov. 2015 – Aug. 2016_
 * **Dependency Managers:** NPM
 * **Other Tools:** Sublime, Atom, Vim, Apache (XAMPP), Gulp, Grunt/Bower (Yeoman), JIRA
 
-## OTHER DEVELOPER SKILLS
-**Information Architecture and Design**
-* Improved client satisfaction by using an iterative design process
-* Developed web apps with Responsive Design and  Mobile-First approach
-* Structured projects with MVC and coding practices such as BEM and SMACSS
-
-**Development, Testing and Security**
-* Avoided cross-browser issues by using progressive enhancement, early/constant testing
-* Created development servers with Node.js and Express.js
-* Established quick reading/writing with smart database indexing in MySQL
-
-**Accessibility, Optimization and SEO**
-* Optimized browser speeds with use of SVG sprite maps, compressed images and DB indexing
-* Designed and enhanced accessibility using semantic HTML, SRT testing and clean layouts
-* Incorporated asynchronous DOM manipulation and database queries through AJAX
-
 ## EDUCATION
 **Architectural Technologist Advanced Diploma**	_2012_
 * George Brown College, Toronto
