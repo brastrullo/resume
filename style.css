@@ -2,4 +2,148 @@
 
 body {
   font-family: 'Lato', sans-serif;
+  margin: .5em .5em 2em;
+  overflow-x: hidden;
+  height: 100%;
+}
+
+body p:first-of-type,
+#bradleyrastrullo + p,
+#interests + ul,
+h1,
+h2 {
+  text-align: center;
+}
+
+a, a:visited {
+  color: orange;
+  text-decoration: none;
+}
+
+a:hover {
+  border-bottom: 1px solid orange;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 0;
+}
+
+h2 {
+  margin-top: 1.75em;
+  margin-bottom: .3em;
+}
+
+body p:first-of-type em:first-of-type {
+  display: block;
+}
+
+#technicalskills + ul,
+#professionaldevelopment + ul,
+#volunteerandcommunitywork + ul,
+#interests + ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+p + ul {
+  margin-top: 0;
+}
+
+#developerworkexperience + p, ul + p, #education + p {
+  margin-bottom: 0;
+}
+
+#bradleyrastrullo + p a:hover {
+  border: none;
+}
+
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 3em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+  ul {
+    padding-left: 1em;
+  }
+
+  #bradleyrastrullo + p strong {
+    display: none;
+  }
+
+  #bradleyrastrullo + p {
+    margin: 0;
+    display: flex;
+    flex-flow: wrap column;
+  }
+
+  #education + p em {
+    display: inline;
+  }
+
+  ul ~ p em {
+    display: block;
+  }
+
+  #technicalskills + ul strong,
+  #professionaldevelopment + ul strong,
+  #volunteerandcommunitywork + ul strong {
+    display: block;
+  }
+
+  #technicalskills + ul,
+  #professionaldevelopment + ul,
+  #volunteerandcommunitywork + ul {
+    text-align: center;
+  }
+
+  #technicalskills + ul li,
+  #professionaldevelopment + ul li,
+  #volunteerandcommunitywork + ul li {
+    margin-bottom: .5em;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+
+  body {
+    margin: 1em 5em 2em;
+  }
+
+  body p:first-of-type {
+    margin: 0;
+  }
+
+  #bradleyrastrullo + p {
+    margin-top: 0;
+  }
+
+  #developerworkexperience + p, ul + p, #education + p {
+    display: flex;
+    justify-content: start;
+    margin-bottom: 0;
+  }
+
+  ul ~ p em {
+    margin-left: auto;
+  }
+
+  #professionaldevelopment + ul li,
+  #volunteerandcommunitywork + ul li {
+    display: flex;
+    justify-content: start;
+  }
+
+  #professionaldevelopment + ul em,
+  #volunteerandcommunitywork + ul em {
+    margin-left: auto;
+  }
+
+  #professionaldevelopment + ul strong {
+    padding-right: .5em;
+  }
 }
