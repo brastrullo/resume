@@ -38,6 +38,7 @@ body p:first-of-type em:first-of-type {
   display: block;
 }
 
+#education + p + ul,
 #technicalskills + ul,
 #professionaldevelopment + ul,
 #volunteerandcommunitywork + ul,
@@ -95,6 +96,8 @@ p + ul {
     display: block;
   }
 
+  #education + p,
+  #education + p + ul,
   #technicalskills + ul,
   #professionaldevelopment + ul,
   #volunteerandcommunitywork + ul {
@@ -111,7 +114,8 @@ p + ul {
 @media only screen and (min-width: 768px) {
 
   body {
-    margin: 1em 5em 2em;
+    margin: 1em auto 2em;
+    max-width: 60em;
   }
 
   body p:first-of-type {
