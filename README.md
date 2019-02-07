@@ -1,5 +1,6 @@
 [View PDF](https://brastrullo.github.io/resume/BradR-JSDev.pdf "View PDF") | [Download DOC](https://brastrullo.github.io/resume/BradR-JSDev.doc "Download DOC")
 _[bradleyrastrullo.com](https://bradleyrastrullo.com "Visit my personal website")_ 
+
 # BRADLEY RASTRULLO
 _[brastrullo@gmail.com](mailto:brastrullo@gmail.com "Send me an email")_ **|** _[(647) 389 1342](tel:6473891342 "Send me an email")_
 
