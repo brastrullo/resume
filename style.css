@@ -25,7 +25,6 @@ a:hover {
 }
 
 h1 {
-  font-size: 3em;
   margin-bottom: 0;
 }
 
@@ -61,6 +60,10 @@ p + ul {
 }
 
 @media only screen and (max-width: 768px) {
+  html {
+    font-size: 12px;
+  }
+
   h1 {
     font-size: 3em;
   }
@@ -111,11 +114,22 @@ p + ul {
   }
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 768px) and (max-width: 1000px) {
+  body {
+    margin: 1em 5em 2em;
+  }
+}
 
+@media only screen and (min-width: 1000px) {
   body {
     margin: 1em auto 2em;
     max-width: 60em;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  html {
+    font-size: 16px;
   }
 
   body p:first-of-type {
