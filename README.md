@@ -40,11 +40,11 @@ Rastr Digital, *2019 - Current*
 * Created and maintained components for EmberJS migration with design team collaboration
 * Main technologies: EmberJS, Handlebars, SCSS, QUnit, Node, Git, SVN, JIRA
 
-**EDUCATION**
-**Architectural Technologist Advanced Diploma** 
-*George Brown College, Toronto ON,* *2009 – 2012*
+**EDUCATION**  
+**Architectural Technologist Advanced Diploma**  
+George Brown College, Toronto ON, *2009 – 2012*  
 
-**INTERESTS**
-*Entrepreneurship, Mentorship, Fitness, Travel, UX Design, 3D Animation*
+**INTERESTS**  
+Entrepreneurship, Mentorship, Fitness, Travel, UX Design, 3D Animation  
 
 [linkedin.com/in/bradleyrastrullo](linkedin.com/in/bradleyrastrullo "Link to LinkedIn profile") | [github.com/brastrullo](github.com/brastrullo "Link to GitHub profile") | [bradleyrastrullo.com](bradleyrastrullo.com "Link to personal blog")
