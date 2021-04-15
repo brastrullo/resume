@@ -55,14 +55,14 @@ body p:nth-last-child(3) {
   width: 50%;
 }
 
-body p:nth-last-child(3) em:first-of-type,
-body p:nth-last-child(2) em {
-  font-style: normal;
-}
 body p:nth-last-child(2) {
   font-size: .9rem;
   float: right;
   width: 50%;
+}
+body p:nth-last-child(3) br {
+  margin: 0;
+  height: 0;
 }
 body p:nth-last-child(3) strong,
 body p:nth-last-child(2) strong:first-child,
@@ -109,148 +109,3 @@ body p:last-child {
     margin-left: auto;
   }
 }
-
-/* @import url('https://fonts.googleapis.com/css?family=Lato');
-
-body {
-  font-family: 'Lato', sans-serif;
-  margin: .5em .5em 2em;
-  overflow-x: hidden;
-  height: 100%;
-}
-
-body p:first-of-type,
-#bradleyrastrullo + p,
-#interests + ul,
-h1,
-h2 {
-  text-align: center;
-}
-
-a, a:visited {
-  color: orange;
-  text-decoration: none;
-}
-
-a:hover {
-  border-bottom: 1px solid orange;
-}
-
-h1 {
-  margin-bottom: 0;
-}
-
-h2 {
-  margin-top: 1.75em;
-  margin-bottom: .3em;
-}
-
-body p:first-of-type em:first-of-type {
-  display: block;
-}
-
-#education + p + ul,
-#skills + ul,
-#interests + ul {
-  list-style-type: none;
-  margin: 0;
-  padding-left: 0;
-}
-
-p + ul {
-  margin-top: 0;
-}
-
-#experience + p, ul + p, #education + p {
-  margin-bottom: 0;
-}
-
-#bradleyrastrullo + p a:hover {
-  border: none;
-}
-
-@media only screen and (max-width: 768px) {
-  html {
-    font-size: 12px;
-  }
-
-  h1 {
-    font-size: 3em;
-  }
-
-  h2 {
-    font-size: 1.5em;
-  }
-  ul {
-    padding-left: 1em;
-  }
-
-  #bradleyrastrullo + p strong {
-    display: none;
-  }
-
-  #bradleyrastrullo + p {
-    margin: 0;
-    display: flex;
-    flex-flow: wrap column;
-  }
-
-  #education + p em {
-    display: inline;
-  }
-
-  ul ~ p em {
-    display: block;
-  }
-
-  #skills + ul strong {
-    display: block;
-  }
-
-  #education + p,
-  #education + p + ul,
-  #skills + ul {
-    text-align: center;
-  }
-
-  #skills + ul li {
-    margin-bottom: .5em;
-  }
-}
-
-@media only screen and (min-width: 768px) and (max-width: 1000px) {
-  body {
-    margin: 1em 5em 2em;
-  }
-}
-
-@media only screen and (min-width: 1000px) {
-  body {
-    margin: 1em auto 2em;
-    max-width: 60em;
-  }
-}
-
-@media only screen and (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-
-  body p:first-of-type {
-    margin: 0;
-  }
-
-  #bradleyrastrullo + p {
-    margin-top: 0;
-  }
-
-  #experience + p, ul + p, #education + p {
-    display: flex;
-    justify-content: start;
-    margin-bottom: 0;
-  }
-
-  ul ~ p em {
-    margin-left: auto;
-  }
-} */
