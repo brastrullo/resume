@@ -1,71 +1,50 @@
-[View PDF](https://brastrullo.github.io/resume/BradR-JSDev.pdf "View PDF") | [Download DOC](https://brastrullo.github.io/resume/BradR-JSDev.doc "Download DOC")
-_[bradleyrastrullo.com](https://bradleyrastrullo.com "Visit my personal website")_ 
-
+[View PDF](https://brastrullo.github.io/resume/BradR-FE2021.pdf "View PDF")  
+[![bradleyrastrullo.com](https://i.ibb.co/0YztZ2N/br-sm.jpg "Bradley Rastrullo logo")](https://bradleyrastrullo.com)  
+*[hello@bradleyrastrullo.com](mailto:hello@bradleyrastrullo.com?Subject=Hello "Send me an email")* | [Schedule a meeting](https://calendly.com/brastrullo/meet-brad "Schedule a meeting")
 # BRADLEY RASTRULLO
-_[brastrullo@gmail.com](mailto:brastrullo@gmail.com "Send me an email")_ **|** _[(647) 389 1342](tel:6473891342 "Send me an email")_
 
-## HIGHLIGHTS OF QUALIFICATIONS
-* Adaptable tech stack being framework agnostic with focus on JavaScript and UX best practices
-* Experienced in building responsive cross-browser web applications optimized for mobile platforms
-* Proven digital communication skills in working remotely/on-site in an agile environment and collaborating with clients through changing requirements and deadlines
-* Self-taught programmer with an Advanced Diploma in Architectural Technology
+## SUMMARY
+Creative Frontend Developer looking to bring 5 years of corporate and freelance experience to a developer/designer position in a digital design/marketing agency  
 
-## DEVELOPER WORK EXPERIENCE
+## HIGHLIGHTS
+**Innovative**: Focused self-starter on a mission to improve the web for everyone everyday  
+**Collaborative**: Experienced with multi-disciplinary small and large teams, client facing and internal  
+**Adaptive**: Advanced in JS/HTML/CSS, framework agnostic and always learning  
+**Creative**: Architecture background with passion for animation, graphic design and UX  
 
-Intermediate Fullstack Developer, **[TELUS DIGITAL](https://www.telus.com "Visit telus.com")**, Toronto _Mar. 2018 – Feb. 2019_
-* Updated and maintained the Chat WebApp/Support Pages for Mobility division
-* Assisted in app architecture overhaul while keeping consistent cross-app functionality
-* Integrated internal design system responsively in mobile and desktop environments
+## SKILLS
+**Primary**: JavaScript (ES6+), HTML5, CSS3, Sass, React 16+, TailwindCSS  
+**Frontend**: TypeScript, Node, Express, Jest, NPM scripts, Webpack  
+**Design**: Figma, Sketch  
+
+## EXPERIENCE
+**Consultant Developer**  
+Rastr Digital, *2019 - Current*  
+* Projects range from landing pages to internal productivity tools
+* Consultations on business development, branding/identity and technical direction
+* Main Technologies: Next.js, TypeScript, TailwindCSS, Figma
+
+**Intermediate Full-stack Developer**  
+[TELUS Digital](https://telus.com "Telus Digital homepage"), *2018 - 2019*  
+* Maintained the Chat WebApp and Support Pages for Mobility division
+* Assisted in Redux architecture overhaul and integrated Telus Design System for Chat
 * Main Technologies: React, Redux, Jest, OpenShift, Contentful, JIRA, Confluence
 
-Front-End Developer, Solo, Toronto _May 2017 – Mar. 2018_
-* Reduced dependencies on personal website by converting JS from Angular to vanilla ES6
-* Rehashed workflow with NPM scripts removing need for Gulp
-* Created custom SVG animations using Velocity
-* Sharpened skills in React and Accessibility Practices
+**Web Developer**  
+[BMO](https://bmo.com "BMO homepage"), *2016 – 2017*  
+* Implemented multi-page marketing campaigns from mockups in HTML/JS/CSS with internal CMS
+* Main Technologies: EJS, Jekyll, Node, Git, Rally, BitBucket
 
-Web Developer, **[BMO](https://www.bmo.com "Visit bmo.com")**, Toronto	_Sept. 2016 – May 2017_
-* Worked closely with designers, copywriters and other developers in an agile sprint environment
-* Implemented  campaigns through complete development cycle from ideation to production
-* Constantly revamped projects with up to date best practices
-* Practiced innovation and creativity through weekly development team meetings
-* Main Technologies: BitBucket, EJS, Jekyll, Node, Git, Rally
-
-Junior Developer, **[CIBC](https://www.cibc.com "Visit cibc.com")**, Toronto _Nov. 2015 – Aug. 2016_
-* Cross-team developer worked on multiple  agile sprint teams
-* Created and updated templates into re-usable components in EmberJS
-* Updated acceptance and integration tests in QUnit
-* Cross-browser tester, maintained accessibility and implemented mock-ups from design team
+**Junior Developer**  
+[CIBC](https://cibc.com "CIBC homepage"), *2015 – 2016*  
+* Created and maintained components for EmberJS migration with design team collaboration
 * Main technologies: EmberJS, Handlebars, SCSS, QUnit, Node, Git, SVN, JIRA
 
-## TECHNICAL SKILLS
-* **Primary Skills:** ES6, HTML5, CSS3/SCSS, React
-* **Basic Skills:** Express, Node, EmberJS, Angular2, jQuery
-* **Database:** MySQL
-* **Version Control System:** Git, SVN
-* **Bundlers/Workflow:** NPM scripts, Browserify
-* **Dependency Managers:** NPM
-* **Other Tools:** Sublime, Atom, Vim, Apache (XAMPP), Gulp, Grunt/Bower (Yeoman), JIRA
+**EDUCATION**
+**Architectural Technologist Advanced Diploma** 
+*George Brown College, Toronto ON,* *2009 – 2012*
 
-## EDUCATION
-**Architectural Technologist Advanced Diploma**	_2012_
-* George Brown College, Toronto
+**INTERESTS**
+*Entrepreneurship, Mentorship, Fitness, Travel, UX Design, 3D Animation*
 
-## PROFESSIONAL DEVELOPMENT
-* **FOAM Framework** Ember & Git Workshop, JS Toronto	_2015_
-* **JS Hack Night** JS Toronto	_2015_
-* **Learn Node.js Workshop** NodeSchool	_2015_
-* **Future of JS: ECMA Script 6 Workshop** Boltmade Labs	_2014_
-* **Project Management Workshop** Fred Pryor Seminars	_2014_
-
-## VOLUNTEER AND COMMUNITY WORK
-* **HackerNest Volunteer**	_2016_
-* **GBC Around The World**	_2016_
-* **Toronto Startup Job Fair**	_2015_
-* **Maker Festival Volunteer**	_2015_
-* **YFC Youth Group Facilitator** _2003 – 2008_
-
-## INTERESTS
-* Fitness/Nutrition and Biking/Hiking
-* Drawing/Sketching and Media Arts/Graphic Design
-* Video Game Design
+[linkedin.com/in/bradleyrastrullo](linkedin.com/in/bradleyrastrullo "Link to LinkedIn profile") | [github.com/brastrullo](github.com/brastrullo "Link to GitHub profile") | [bradleyrastrullo.com](bradleyrastrullo.com "Link to personal blog")

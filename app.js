@@ -23,7 +23,7 @@
   function writeToFile(data){
     var html,
         header;
-    header =`<!-- Converted from .md file using Showdown.js -->
+    header = `<!-- Converted from .md file using Showdown.js -->
 <!doctype html>
 <html class="no-js" lang="">
 
@@ -31,7 +31,7 @@
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>resume.bradleyrastrullo</title>
+<title>Resume - Bradley Rastrulo (Creative Frontend Developer)</title>
 <meta name="description" content="">
 <link rel="stylesheet" href="style.css">
 </head>
