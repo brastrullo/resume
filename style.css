@@ -1,4 +1,116 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  margin: .5em .5em 2em;
+  overflow-x: hidden;
+  height: 100%;
+}
+
+body p:first-of-type,
+body p:nth-child(2),
+#bradleyrastrullo,
+#interests + ul,
+h1,
+h2 {
+  text-align: center;
+}
+
+body ul {
+  padding-left: 1rem;
+  margin-top: .25rem;
+  margin-bottom: 2rem;
+}
+
+body br {
+  display: block;
+  content: "";
+  height: .5rem;
+}
+
+#experience + p,
+#experience + p + ul + p,
+#experience + p + ul + p + ul + p,
+#experience + p + ul + p + ul + p +ul + p {
+  margin-bottom: 0;
+}
+
+#experience + p,
+#experience + p + ul + p,
+#experience + p + ul + p + ul + p,
+#experience + p + ul + p + ul + p +ul + p {
+  margin-bottom: 0;
+}
+
+#education,
+#education + p,
+#interests,
+#interests + p {
+  font-size: .9rem;
+}
+
+body p:nth-last-child(3) {
+  font-size: .9rem;
+  float: left;
+  width: 50%;
+}
+
+body p:nth-last-child(3) em:first-of-type,
+body p:nth-last-child(2) em {
+  font-style: normal;
+}
+body p:nth-last-child(2) {
+  font-size: .9rem;
+  float: right;
+  width: 50%;
+}
+body p:nth-last-child(3) strong,
+body p:nth-last-child(2) strong:first-child,
+body p:nth-last-child(2) em {
+  display: block;
+}
+
+body p:last-child::before {
+  content: "";
+  clear: both;
+  display: table;
+}
+body p:last-child {
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1000px) {
+  body {
+    margin: 1em 5em 2em;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  body {
+    margin: 1em auto 2em;
+    max-width: 60em;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+
+  body p:first-of-type {
+    margin: 0;
+  }
+
+  #bradleyrastrullo + p {
+    margin-top: 0;
+  }
+
+  ul ~ p em {
+    margin-left: auto;
+  }
+}
+
+/* @import url('https://fonts.googleapis.com/css?family=Lato');
 
 body {
   font-family: 'Lato', sans-serif;
@@ -38,9 +150,7 @@ body p:first-of-type em:first-of-type {
 }
 
 #education + p + ul,
-#technicalskills + ul,
-#professionaldevelopment + ul,
-#volunteerandcommunitywork + ul,
+#skills + ul,
 #interests + ul {
   list-style-type: none;
   margin: 0;
@@ -51,7 +161,7 @@ p + ul {
   margin-top: 0;
 }
 
-#developerworkexperience + p, ul + p, #education + p {
+#experience + p, ul + p, #education + p {
   margin-bottom: 0;
 }
 
@@ -93,23 +203,17 @@ p + ul {
     display: block;
   }
 
-  #technicalskills + ul strong,
-  #professionaldevelopment + ul strong,
-  #volunteerandcommunitywork + ul strong {
+  #skills + ul strong {
     display: block;
   }
 
   #education + p,
   #education + p + ul,
-  #technicalskills + ul,
-  #professionaldevelopment + ul,
-  #volunteerandcommunitywork + ul {
+  #skills + ul {
     text-align: center;
   }
 
-  #technicalskills + ul li,
-  #professionaldevelopment + ul li,
-  #volunteerandcommunitywork + ul li {
+  #skills + ul li {
     margin-bottom: .5em;
   }
 }
@@ -140,7 +244,7 @@ p + ul {
     margin-top: 0;
   }
 
-  #developerworkexperience + p, ul + p, #education + p {
+  #experience + p, ul + p, #education + p {
     display: flex;
     justify-content: start;
     margin-bottom: 0;
@@ -149,19 +253,4 @@ p + ul {
   ul ~ p em {
     margin-left: auto;
   }
-
-  #professionaldevelopment + ul li,
-  #volunteerandcommunitywork + ul li {
-    display: flex;
-    justify-content: start;
-  }
-
-  #professionaldevelopment + ul em,
-  #volunteerandcommunitywork + ul em {
-    margin-left: auto;
-  }
-
-  #professionaldevelopment + ul strong {
-    padding-right: .5em;
-  }
-}
+} */

@@ -19,6 +19,5 @@
   "homepage": "https://brastrullo.github.com/resume",
   "devDependencies": {
     "showdown": "^1.7.4"
-  },
-  "dependencies": {}
+  }
 }
