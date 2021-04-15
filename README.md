@@ -8,7 +8,7 @@ Creative Frontend Developer looking to bring 5 years of corporate and freelance 
 
 ## HIGHLIGHTS
 **Innovative**: Focused self-starter on a mission to improve the web for everyone everyday  
-**Collaborative**: Experienced with multi-disciplinary small and large teams, client facing and internal  
+**Collaborative**: Experienced with multi-disciplinary teams, small and large, client facing and internal  
 **Adaptive**: Advanced in JS/HTML/CSS, framework agnostic and always learning  
 **Creative**: Architecture background with passion for animation, graphic design and UX  
 
